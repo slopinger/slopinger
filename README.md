@@ -14,6 +14,7 @@ i write code and run self-hosted services · she/her
 ---
 
 ### things i build & maintain
+- **[lantern](https://github.com/slopinger/lantern)** — experimental webserver in Haskell with Caddy-style config, HTTP/1, TLS 1.3, and ACME
 - **[trough](https://git.freifick.net/slop/trough)** — lightweight ActivityPub server in Go + SQLite with web UI and Mastodon client API support
 - **[slopbox](https://git.freifick.net/slop/mayfly)** — ephemeral file host written in Gleam on Erlang/OTP
 - **[driftline](https://git.freifick.net/slop/driftline)** — static OpenAPI schema difference and migration analyzer
