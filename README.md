@@ -1,6 +1,6 @@
 # hi, i'm slop 👋
 
-adult boymoder (she/her) · oversized hoodie · too many browser tabs · writing code & hopeposting
+i write code and run self-hosted services · she/her
 
 ---
 
