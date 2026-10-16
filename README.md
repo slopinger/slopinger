@@ -14,12 +14,13 @@ i write code and run self-hosted services · she/her
 ---
 
 ### things i build & maintain
-- **[lantern](https://github.com/slopinger/lantern)** — experimental webserver in Haskell with Caddy-style config, HTTP/1, TLS 1.3, and ACME
-- **[trough](https://git.freifick.net/slop/trough)** — lightweight ActivityPub server in Go + SQLite with web UI and Mastodon client API support
-- **[slopbox](https://git.freifick.net/slop/mayfly)** — ephemeral file host written in Gleam on Erlang/OTP
-- **[driftline](https://git.freifick.net/slop/driftline)** — static OpenAPI schema difference and migration analyzer
-- **[therapie-mcp](https://git.freifick.net/slop/therapie-mcp)** — Python Model Context Protocol server for directory search and enquiry workflow
-- **[arbeitsagentur-mcp](https://git.freifick.net/slop/arbeitsagentur-mcp)** — MCP server for German employment agency APIs and deadlines
+- **[slop-landing](https://github.com/slopinger/slop-landing)** — official landing page and slime engine for [freifick.net](https://freifick.net) ([GitLab](https://git.freifick.net/slop/slop-landing))
+- **[lantern](https://github.com/slopinger/lantern)** — experimental webserver in Haskell with Caddy-style config, HTTP/1, TLS 1.3, and ACME ([GitLab](https://git.freifick.net/slop/lantern))
+- **[trough](https://github.com/slopinger/trough)** — lightweight ActivityPub server in Go + SQLite with web UI and Mastodon client API support ([GitLab](https://git.freifick.net/slop/trough))
+- **[slopbox](https://github.com/slopinger/mayfly)** — ephemeral file host written in Gleam on Erlang/OTP ([GitLab](https://git.freifick.net/slop/mayfly))
+- **[driftline](https://github.com/slopinger/driftline)** — static OpenAPI schema difference and migration analyzer ([GitLab](https://git.freifick.net/slop/driftline))
+- **[therapie-mcp](https://github.com/slopinger/therapie-mcp)** — Python Model Context Protocol server for directory search and enquiry workflow ([GitLab](https://git.freifick.net/slop/therapie-mcp))
+- **[arbeitsagentur-mcp](https://github.com/slopinger/arbeitsagentur-mcp)** — MCP server for German employment agency APIs and deadlines ([GitLab](https://git.freifick.net/slop/arbeitsagentur-mcp))
 
 ---
 
