@@ -20,6 +20,10 @@ i write code, run self-hosted services, and love slopping · she/her
   - **[lantern-http](https://github.com/slopinger/lantern-http)** — strict HTTP/1 wire protocol library in Haskell
 - **[trough](https://github.com/slopinger/trough)** — lightweight ActivityPub server in Go + SQLite with web UI and Mastodon client API support
 - **[slopbox](https://github.com/slopinger/mayfly)** — ephemeral file host written in Gleam on Erlang/OTP
+- **[open-grind-ios](https://github.com/slopinger/open-grind-ios)** — native SwiftUI iOS port of Open Grind, the open source Grindr client, with a Rust transport via UniFFI
+- **[xy-remote](https://github.com/slopinger/xy-remote)** — SwiftUI iOS remote and reverse engineered Bluetooth LE protocol library for XinYi (Sinilink) amplifier boards
+- **[hydra](https://github.com/slopinger/hydra)** — soft fork of Lix's Hydra (Nix CI) with live build status and streaming logs
+- **[hydra-mcp](https://github.com/slopinger/hydra-mcp)** — MCP server for Hydra: jobsets, evaluations, builds, logs and the queue
 - **[driftline](https://github.com/slopinger/driftline)** — static OpenAPI schema difference and migration analyzer
 - **[therapie-mcp](https://github.com/slopinger/therapie-mcp)** — Python Model Context Protocol server for directory search and enquiry workflow
 - **[arbeitsagentur-mcp](https://github.com/slopinger/arbeitsagentur-mcp)** — MCP server for German employment agency APIs and deadlines
